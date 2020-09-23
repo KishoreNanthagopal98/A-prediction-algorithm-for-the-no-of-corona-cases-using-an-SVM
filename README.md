@@ -1,4 +1,4 @@
-# New_Corona_Cases_prediction
+# A Prediction algorithm for number of new cases
 
 This New_Corona_Cases_prediction helps to guess the number of new corona cases in a particular country(I used India).
 
